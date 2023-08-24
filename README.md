@@ -1,6 +1,6 @@
 # Admin Dashboard Designs
 
-Collection of <a href="https://youtube.com/#AsmrProg" target="_blank">AsmrProg</a> Youtube Channel Dashboard Designs Coding Codes!
+Collection of <a href="https://youtube.com/@AsmrProg" target="_blank">AsmrProg</a> Youtube Channel Dashboard Designs Coding Codes!
 
 ### Tutorial Video's
 
