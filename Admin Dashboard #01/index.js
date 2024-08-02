@@ -9,7 +9,7 @@ menuBtn.addEventListener('click', () => {
 });
 
 closeBtn.addEventListener('click', () => {
-    sideMenu.style.display = 'none';
+    sideMenu.removeAttribute("style");
 });
 
 darkMode.addEventListener('click', () => {
